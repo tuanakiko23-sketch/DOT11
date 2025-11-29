@@ -1,7 +1,7 @@
 name: dot
 
 on:
-  push:
+  push: 
     branches: main 
   schedule:
     # Chạy mỗi 30 phút (tức là: 00:00, 00:30, 01:00, 01:30, ...)
